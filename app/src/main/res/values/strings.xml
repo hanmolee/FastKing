@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FastKing</string>
+    <string name="login_view">Welcom!</string>
+    <string name="hint_id">Input your ID</string>
+    <string name="hint_pwd">Input your PWD</string>
+    <string name="btn_login">LOG IN</string>
 </resources>
